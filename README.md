@@ -3,8 +3,8 @@
 # template-diw-20251-semana-02
 
 ## Informações Gerais
-- Nome: 
-- Matricula:
+- Nome: Marcos Gomes de Oliveira Lana
+- Matricula: 899071
 
 ## Print da tela da página criada (Curriculum Vitae)
 
