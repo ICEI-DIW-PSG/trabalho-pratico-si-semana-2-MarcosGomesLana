@@ -8,4 +8,4 @@
 
 ## Print da tela da página criada (Curriculum Vitae)
 
-![Tela currículo](public/index.html)
+![Tela currículo](public/print.PNG)
